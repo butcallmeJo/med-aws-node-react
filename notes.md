@@ -17,4 +17,7 @@ Timesheet:
     - Trouble setting up serverless (node/npm) ~20mins
     - Node API setup ~1hr
     - Node API finished ~1hr
-    - Trouble launching API
+    - Trouble launching API ~20mins
+    - React setup until Loging 1hr30mins
+- 10/4:
+    - 

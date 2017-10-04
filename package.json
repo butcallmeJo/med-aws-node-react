@@ -29,6 +29,8 @@
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
+    "amazon-cognito-identity-js": "^1.21.0",
+    "aws-sdk": "^2.126.0",
     "babel-runtime": "^6.26.0",
     "react-bootstrap": "^0.31.3",
     "react-router-dom": "^4.2.2",
