@@ -16,3 +16,5 @@ Timesheet:
     - Environment configuration ~1hr
     - Trouble setting up serverless (node/npm) ~20mins
     - Node API setup ~1hr
+    - Node API finished ~1hr
+    - Trouble launching API
