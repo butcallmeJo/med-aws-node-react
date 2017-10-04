@@ -20,4 +20,4 @@ Timesheet:
     - Trouble launching API ~20mins
     - React setup until Loging 1hr30mins
 - 10/4:
-    - 
+    - Routing/redirects, deployement, edit, update, delete notes. display notes ~2hr30mins
